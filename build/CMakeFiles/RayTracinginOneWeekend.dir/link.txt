@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/RayTracinginOneWeekend.dir/link.d CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o -o RayTracinginOneWeekend
