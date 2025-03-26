@@ -5,15 +5,15 @@
 
 double hit_sphere(const point3& center, double radius, const ray& r){
     vec3 oc = center - r.origin();
-    auto a = dot(r.direction(), r.direction());
-    auto b = -2.0 * dot(r.direction(), oc);
-    auto c = dot(oc, oc) - radius*radius;
-    auto D = b*b - 4*a*c;
+    auto a = r.direction().length_squared();
+    auto h = dot(r.direction(), oc);
+    auto c = oc.length_squared() - radius*radius;
+    auto D = h*h - a*c;
     
     if (D < 0)
         return -1.0;
     else
-        return (-b-sqrt(D))/(2.0 * a);
+        return (h-sqrt(D))/a;
 }
 
 color ray_color(const ray& r){
