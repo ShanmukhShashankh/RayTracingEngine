@@ -3,6 +3,7 @@
 
 CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o: /mnt/BambooCopter/Work/RayTracinginOneWeekend/main.cc \
   /mnt/BambooCopter/Work/RayTracinginOneWeekend/include/color.h \
+  /mnt/BambooCopter/Work/RayTracinginOneWeekend/include/ray.h \
   /mnt/BambooCopter/Work/RayTracinginOneWeekend/include/vec3.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
@@ -385,6 +386,18 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 
 /usr/include/c++/14.2.1/bits/stl_iterator_base_types.h:
 
+/usr/include/c++/14.2.1/bits/stl_algobase.h:
+
+/usr/include/c++/14.2.1/bits/std_abs.h:
+
+/usr/include/c++/14.2.1/concepts:
+
+/usr/include/bits/endian.h:
+
+/usr/include/bits/thread-shared-types.h:
+
+/usr/include/bits/mathcalls-helper-functions.h:
+
 /usr/include/c++/14.2.1/ext/atomicity.h:
 
 /usr/include/bits/types/__FILE.h:
@@ -394,14 +407,6 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 /usr/include/c++/14.2.1/bits/charconv.h:
 
 /usr/include/c++/14.2.1/bits/exception.h:
-
-/usr/include/c++/14.2.1/concepts:
-
-/usr/include/bits/endian.h:
-
-/usr/include/bits/thread-shared-types.h:
-
-/usr/include/bits/mathcalls-helper-functions.h:
 
 /usr/include/bits/types/struct_timeval.h:
 
@@ -451,37 +456,17 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 
 /usr/include/c++/14.2.1/bits/new_allocator.h:
 
-/usr/include/stdc-predef.h:
-
-/usr/include/asm-generic/posix_types.h:
-
-/usr/include/bits/types/__sigset_t.h:
-
-/usr/include/c++/14.2.1/bits/allocator.h:
-
-/usr/include/bits/pthread_stack_min-dynamic.h:
-
-/mnt/BambooCopter/Work/RayTracinginOneWeekend/main.cc:
-
-/usr/include/c++/14.2.1/bits/invoke.h:
-
 /usr/include/asm-generic/types.h:
 
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/14.2.1/backward/binders.h:
 
-/usr/include/asm/posix_types.h:
+/mnt/BambooCopter/Work/RayTracinginOneWeekend/include/ray.h:
 
-/usr/include/asm/posix_types_64.h:
+/usr/include/bits/types/struct_timespec.h:
 
-/usr/include/c++/14.2.1/bits/basic_ios.tcc:
-
-/usr/include/c++/14.2.1/bits/postypes.h:
-
-/usr/include/asm-generic/int-ll64.h:
-
-/usr/include/bits/mathcalls-macros.h:
+/usr/include/c++/14.2.1/bits/refwrap.h:
 
 /usr/include/c++/14.2.1/bits/functional_hash.h:
 
@@ -511,25 +496,51 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 
 /mnt/BambooCopter/Work/RayTracinginOneWeekend/include/vec3.h:
 
+/usr/include/stdc-predef.h:
+
+/usr/include/asm-generic/posix_types.h:
+
+/usr/include/bits/types/__sigset_t.h:
+
+/usr/include/c++/14.2.1/bits/allocator.h:
+
+/usr/include/bits/pthread_stack_min-dynamic.h:
+
+/mnt/BambooCopter/Work/RayTracinginOneWeekend/main.cc:
+
+/usr/include/c++/14.2.1/bits/invoke.h:
+
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/bits/types.h:
 
 /mnt/BambooCopter/Work/RayTracinginOneWeekend/include/color.h:
 
+/usr/include/asm/posix_types.h:
+
+/usr/include/asm/posix_types_64.h:
+
+/usr/include/c++/14.2.1/bits/basic_ios.tcc:
+
+/usr/include/c++/14.2.1/bits/postypes.h:
+
+/usr/include/bits/mathcalls-macros.h:
+
+/usr/include/asm-generic/int-ll64.h:
+
 /usr/include/bits/locale.h:
-
-/usr/include/bits/atomic_wide_counter.h:
-
-/usr/include/c++/14.2.1/string_view:
-
-/usr/include/bits/types/clockid_t.h:
 
 /usr/include/wctype.h:
 
 /usr/include/bits/timex.h:
 
 /usr/include/bits/errno.h:
+
+/usr/include/bits/atomic_wide_counter.h:
+
+/usr/include/c++/14.2.1/string_view:
+
+/usr/include/bits/types/clockid_t.h:
 
 /usr/include/bits/stdlib-float.h:
 
@@ -615,10 +626,6 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 
 /usr/include/bits/waitflags.h:
 
-/usr/include/bits/types/struct_timespec.h:
-
-/usr/include/c++/14.2.1/bits/refwrap.h:
-
 /usr/include/bits/types/struct_tm.h:
 
 /usr/include/c++/14.2.1/bits/locale_facets.h:
@@ -626,10 +633,6 @@ RayTracinginOneWeekend: /usr/lib/Scrt1.o \
 /usr/include/asm-generic/bitsperlong.h:
 
 /usr/include/bits/wchar.h:
-
-/usr/include/c++/14.2.1/bits/stl_algobase.h:
-
-/usr/include/c++/14.2.1/bits/std_abs.h:
 
 /usr/include/bits/timesize.h:
 
@@ -685,11 +688,11 @@ CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o:
 
 /usr/include/c++/14.2.1/bits/cxxabi_init_exception.h:
 
-/usr/include/bits/types/__mbstate_t.h:
-
 /usr/include/bits/stdio_lim.h:
 
 /usr/include/bits/time.h:
+
+/usr/include/bits/types/__mbstate_t.h:
 
 /usr/include/c++/14.2.1/bits/predefined_ops.h:
 
