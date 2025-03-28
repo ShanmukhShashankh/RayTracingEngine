@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/BambooCopter/Work/RayTracinginOneWeekend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

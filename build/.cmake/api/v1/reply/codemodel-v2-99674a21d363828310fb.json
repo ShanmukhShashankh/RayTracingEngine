@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RayTracinginOneWeekend::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RayTracinginOneWeekend-55083cf967b495891797.json",
+					"jsonFile" : "target-RayTracinginOneWeekend-2b610072fdf5891cdef8.json",
 					"name" : "RayTracinginOneWeekend",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 8
 	}
 }

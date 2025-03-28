@@ -6,7 +6,8 @@
 
 using color = vec3; //alias vector geometry for colors
 
-void write_color(std::ostream& out, const color& pixel_color){
+// remove inline if doesn't work
+inline void write_color(std::ostream& out, const color& pixel_color){
     auto r = pixel_color.x();
     auto g = pixel_color.y();
     auto b = pixel_color.z();
