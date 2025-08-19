@@ -1,13 +1,9 @@
 #ifndef HITTABLE_LIST_H
 #define HITTABLE_LIST_H
 
-#include "interval.h"
-#include<hittable.h>
-#include<memory>
+#include "hittable.h"
 #include<vector>
 
-using std::make_shared;
-using std::shared_ptr;
 
 class hittable_list : public hittable{
     public:

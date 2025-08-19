@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/BambooCopter/Work/RayTracinginOneWeekend/main.cc" "CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o" "gcc" "CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o.d"
+  "/mnt/BambooCopter/Work/cppProjects/RayTracinginOneWeekend/main.cc" "CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o" "gcc" "CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o.d"
   "" "RayTracinginOneWeekend" "gcc" "CMakeFiles/RayTracinginOneWeekend.dir/link.d"
   )
 

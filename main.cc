@@ -1,11 +1,6 @@
-#include "color.h"
 #include "rtweekend.h"
-#include "hittable.h"
 #include "hittable_list.h"
 #include "sphere.h"
-#include "vec3.h"
-#include "interval.h"
-
 
 color ray_color(const ray&r, const hittable& world){
     hit_record rec;
