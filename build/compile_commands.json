@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/mnt/BambooCopter/Work/cppProjects/RayTracinginOneWeekend/build",
-  "command": "/usr/bin/c++  -I/mnt/BambooCopter/Work/cppProjects/RayTracinginOneWeekend/include -std=gnu++17 -o CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o -c /mnt/BambooCopter/Work/cppProjects/RayTracinginOneWeekend/main.cc",
-  "file": "/mnt/BambooCopter/Work/cppProjects/RayTracinginOneWeekend/main.cc",
-  "output": "CMakeFiles/RayTracinginOneWeekend.dir/main.cc.o"
-}
-]
